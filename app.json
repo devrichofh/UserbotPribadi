@@ -10,24 +10,27 @@
   "env": {
     "API_KEY": {
       "description": "Get this value from my.telegram.org.",
+      "value": "2397533",
       "required": true
     },
     "API_HASH": {
       "description": "Get this value from my.telegram.org.",
+      "value": "cffd5876094ddbf208a07e1351df30d1",
       "required": true
     },
     "STRING_SESSION": {
       "description": "Get this value by running [python3 string_session.py] in Termux or local system.",
+      "value": "1BVtsOJMBu3OxvYjr0mtkPCKKV8qkwia4kSW4G8EMIgBZ_s5hZoXqgarUZWVVdjqp5NV0nEXfUmT1L53jEkheq90vX-5NWLrSy8tBTqHj15MThCe5NE2eCuS8pgxCfQ2m7DnAFA6cVSOd8sB8nCKGEdU7BNIFx72L23dMqwnOj1GgtbhyefAsdrU-LceAqINfsCbG80UXvD9unKp24wxyfd6H3r9fPgyoKvtTyN7VHbnEFZkE_I8NFfzVnEx5EVP-jSCUBqQ3klyFNZLfxX4WzyS2BbQGfZTkVlhzyjDCq7bcEFiGIYVD0f9rtZS51MkDA7Mme1HLqCklRoRsnwZlCfWJnmPV7aE=",
       "required": true
     },
     "HEROKU_API_KEY": {
       "description": "Your Heroku main account API key, get it from 'https://dashboard.heroku.com/account'",
-      "value": "",
+      "value": "a0fe30af-0b98-436e-ad0f-15fde12d728d",
       "required": true
     },
     "HEROKU_APP_NAME": {
       "description": "Heroku app name main, the first app you deploy for userbot.",
-      "value": "",
+      "value": "devrichhh",
       "required": true
     },
     "HEROKU_API_KEY_FALLBACK": {
@@ -36,7 +39,7 @@
     },
     "HEROKU_APP_FALLBACK_NAME": {
       "description": "Heroku app name fallback, this should be app name you make now.",
-      "value": "",
+      "value": "devrichhh",
       "required": true
     },
     "UPSTREAM_REPO_URL": {
@@ -56,11 +59,11 @@
     },
     "BOTLOG": {
       "description": "Incase you want to turn off logging, put this to false",
-      "value": "False"
+      "value": "True"
     },
     "BOTLOG_CHATID": {
       "description": "ChatID of the Log group. Set it to '0' if BOTLOG = False and/or if LOGSPAMMER = False.",
-      "value": "0"
+      "value": "-481526904"
     },
     "CONSOLE_LOGGER_VERBOSE": {
       "description": "If you need verbosity on the console logging",
