@@ -20,7 +20,7 @@
     },
     "STRING_SESSION": {
       "description": "Get this value by running [python3 string_session.py] in Termux or local system.",
-      "value": "1BVtsOJMBu3OxvYjr0mtkPCKKV8qkwia4kSW4G8EMIgBZ_s5hZoXqgarUZWVVdjqp5NV0nEXfUmT1L53jEkheq90vX-5NWLrSy8tBTqHj15MThCe5NE2eCuS8pgxCfQ2m7DnAFA6cVSOd8sB8nCKGEdU7BNIFx72L23dMqwnOj1GgtbhyefAsdrU-LceAqINfsCbG80UXvD9unKp24wxyfd6H3r9fPgyoKvtTyN7VHbnEFZkE_I8NFfzVnEx5EVP-jSCUBqQ3klyFNZLfxX4WzyS2BbQGfZTkVlhzyjDCq7bcEFiGIYVD0f9rtZS51MkDA7Mme1HLqCklRoRsnwZlCfWJnmPV7aE=",
+      "value": "",
       "required": true
     },
     "HEROKU_API_KEY": {
