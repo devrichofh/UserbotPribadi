@@ -25,12 +25,12 @@
     },
     "HEROKU_API_KEY": {
       "description": "Your Heroku main account API key, get it from 'https://dashboard.heroku.com/account'",
-      "value": "a0fe30af-0b98-436e-ad0f-15fde12d728d",
+      "value": "",
       "required": true
     },
     "HEROKU_APP_NAME": {
       "description": "Heroku app name main, the first app you deploy for userbot.",
-      "value": "devrichhh",
+      "value": "",
       "required": true
     },
     "HEROKU_API_KEY_FALLBACK": {
@@ -39,7 +39,7 @@
     },
     "HEROKU_APP_FALLBACK_NAME": {
       "description": "Heroku app name fallback, this should be app name you make now.",
-      "value": "devrichhh",
+      "value": "",
       "required": true
     },
     "UPSTREAM_REPO_URL": {
@@ -63,7 +63,7 @@
     },
     "BOTLOG_CHATID": {
       "description": "ChatID of the Log group. Set it to '0' if BOTLOG = False and/or if LOGSPAMMER = False.",
-      "value": "-481526904"
+      "value": "-1001419989521"
     },
     "CONSOLE_LOGGER_VERBOSE": {
       "description": "If you need verbosity on the console logging",
